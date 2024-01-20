@@ -1,0 +1,31 @@
+.visited-country-list-style {
+  list-style-type: none;
+  width: 270px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+.country-img {
+  height: 180px;
+  width: 100%;
+  margin-bottom: 0px;
+}
+.country-and-btn {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #1f1f2f;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin-top: 0px;
+}
+.remove-btn {
+  border: 1px solid #ffffff;
+  color: #ffffff;
+  font-family: 'Roboto';
+  background-color: transparent;
+  outline: none;
+  cursor: pointer;
+  border-radius: 3px;
+  width: 70px;
+  padding: 5px;
+}
